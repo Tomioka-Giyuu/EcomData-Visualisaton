@@ -39,13 +39,13 @@ The data cleaning process was performed using Python in Google Colab. The notebo
 [![Most Ordered Sizes](Images/MostOrderedSize.png)](Images/MostOrderedSize.png)
 
 ### States With Most Orders
-[![States With Most Orders](path_to_image2.png)](path_to_image2.png)
+[![States With Most Orders](Images/StateMostOrders.png)](Images/StateMostOrders.png)
 
 ### Order Status
-[![Order Status](path_to_image3.png)](path_to_image3.png)
+[![Order Status](Images/OrderStatus.png)](Images/OrderStatus.png)
 
 ### Most Purchased Category
-[![Most Purchased Category](path_to_image4.png)](path_to_image4.png)
+[![Most Purchased Category](Images/MostPurchasedCategory.png)](Images/MostPurchasedCategory.png)
 
 The cleaned dataset was imported into Power BI Desktop for visualization. The `amazon_sale_report.pbix` file contains the Power BI report, showcasing various visualizations such as charts, graphs, and tables to represent key insights from the Amazon sale report data.
 
