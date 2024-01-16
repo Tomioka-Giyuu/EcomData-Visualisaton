@@ -36,7 +36,7 @@ The data cleaning process was performed using Python in Google Colab. The notebo
 ## Power BI Visualization
 
 ### Most Ordered Sizes
-[![Most Ordered Sizes](path_to_image1.png)](path_to_image1.png)
+[![Most Ordered Sizes](Images/MostOrderedSize.png)](Images/MostOrderedSize.png)
 
 ### States With Most Orders
 [![States With Most Orders](path_to_image2.png)](path_to_image2.png)
