@@ -31,7 +31,7 @@ The Amazon sale report dataset used in this project is sourced from Kaggle and c
 
 ## Data Cleaning
 
-The data cleaning process was performed using Python in Google Colab. The notebook `data_cleaning.ipynb` details the step-by-step process of loading the dataset, handling missing values, and dropping unnecessary columns. This ensures that the data is in a suitable format for visualization.
+The data cleaning process was performed using Python in Google Colab. The notebook `EcomData.ipynb` details the step-by-step process of loading the dataset, handling missing values, and dropping unnecessary columns. This ensures that the data is in a suitable format for visualization.
 
 ## Power BI Visualization
 
